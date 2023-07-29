@@ -10,4 +10,7 @@ func main() {
 	fmt.Println("base")
 
 	fmt.Println("chapter1")
+	fmt.Println("chapter3")
+	fmt.Println("chapter3")
+	fmt.Println("chapter3")
 }
