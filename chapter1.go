@@ -3,7 +3,9 @@ package gittutorial
 import "fmt"
 
 func main() {
-	fmt.Println("chapter2-2")
-	fmt.Println("chapter2")
-	fmt.Println("chapter2-2")
+	fmt.Println("chapter3")
+	fmt.Println("chapter3-2")
+	fmt.Println("chapter3-2")
+	fmt.Println("chapter3")
+	fmt.Println("chapter1")
 }
