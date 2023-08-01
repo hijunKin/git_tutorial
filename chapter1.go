@@ -6,4 +6,7 @@ func main() {
 	fmt.Println("chapter2-2")
 	fmt.Println("chapter2")
 	fmt.Println("chapter2-2")
+	fmt.Println("chapter1")
+	fmt.Println("chapter1")
+	fmt.Println("chapter1")
 }
